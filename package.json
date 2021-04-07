@@ -1,0 +1,19 @@
+{
+  "name": "progressive-budget",
+  "version": "1.0.0",
+  "description": "This repository contains my progressive budget tracker. The project was a homework assignment from the Case Western Reserve University's Coding Bootcamp. It required me to add functionality to the existing Budget Tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfears19/Progressive-Budget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfears19/Progressive-Budget/issues"
+  },
+  "homepage": "https://github.com/nfears19/Progressive-Budget#readme"
+}
